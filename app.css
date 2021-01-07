@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    margin-top: 50px;
+    vertical-align: middle;
+}
+
+.form-control {
+    width: 40px;
+    height: 40px;
+    display: inline;
+}
+
+.card {
+    text-align: center;
+    border-radius: 15px;
+}
+
+#labelAndSelector {
+    margin-bottom: 15px;
+}
